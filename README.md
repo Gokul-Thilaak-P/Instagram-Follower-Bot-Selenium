@@ -6,3 +6,5 @@ Pyhton
 
 Module used:
 Selenium
+
+P.S : I have attched driver for chrome. You can download driver for your browser and paste it in the directory and rename in main.py accordingly.
